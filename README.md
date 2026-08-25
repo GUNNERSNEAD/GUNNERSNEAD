@@ -15,4 +15,3 @@
   <br><br>
   The projects that excite me most are the ones fueled by genuine passion. Whether I'm helping a founder launch an idea or working alongside someone like my mom to bring her vision for her Pilates business to life, I love collaborating with people who care deeply about what they're building. Seeing an idea evolve from a conversation into something real that others can experience is what keeps me coming back.
 </details>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
