@@ -1,5 +1,22 @@
-# Young Entrepreneurial Developer<br><br>I'm a young entrepreneurial developer who loves turning ideas into products that people can actually use. I enjoy blending product thinking, UI design, and engineering to build experiences that feel intuitive, polished, and purposeful.<br><br>My background started with learning JavaScript, CSS, HTML, and the fundamentals of programming from the ground up. Today, my workflow is powered by modern AI-assisted development, allowing me to move quickly while staying intentional about architecture, user experience, and quality. I regularly work with React, Tailwind CSS, Node.js, SQL and vector databases, and cloud platforms like Vercel, using AI as a force multiplier rather than a replacement for understanding how software works.<br><br>Outside of development, the ocean is where I feel most at home. Surfing, hydrofoiling, traveling, spending time with friends and family, and chasing new experiences all shape the way I think and create. I enjoy building software because it gives me the same feeling as exploring a new place or learning a new sport—there's always another challenge to solve and another opportunity to improve.<br><br>The projects that excite me most are the ones fueled by genuine passion. Whether I'm helping a founder launch an idea or working alongside someone like my mom to bring her vision for her Pilates business to life, I love collaborating with people who care deeply about what they're building. Seeing an idea evolve from a conversation into something real that others can experience is what keeps me coming back.<br>
+<details>
+  <summary><strong>Young Entrepreneurial Developer</strong></summary>
 
+  <br>
+
+  I'm a young entrepreneurial developer who loves turning ideas into products that people can actually use. I enjoy blending product thinking, UI design, and engineering to build experiences that feel intuitive, polished, and purposeful.
+
+  <br><br>
+
+  My background started with learning JavaScript, CSS, HTML, and the fundamentals of programming from the ground up. Today, my workflow is powered by modern AI-assisted development, allowing me to move quickly while staying intentional about architecture, user experience, and quality. I regularly work with React, Tailwind CSS, Node.js, SQL and vector databases, and cloud platforms like Vercel, using AI as a force multiplier rather than a replacement for understanding how software works.
+
+  <br><br>
+
+  Outside of development, the ocean is where I feel most at home. Surfing, hydrofoiling, traveling, spending time with friends and family, and chasing new experiences all shape the way I think and create. I enjoy building software because it gives me the same feeling as exploring a new place or learning a new sport—there's always another challenge to solve and another opportunity to improve.
+
+  <br><br>
+
+  The projects that excite me most are the ones fueled by genuine passion. Whether I'm helping a founder launch an idea or working alongside someone like my mom to bring her vision for her Pilates business to life, I love collaborating with people who care deeply about what they're building. Seeing an idea evolve from a conversation into something real that others can experience is what keeps me coming back.
+</details>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gunnersnead) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sneadgunner@gmail.com) 
