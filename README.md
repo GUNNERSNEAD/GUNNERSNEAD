@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+# Young Entrepreneurial Developer<br><br>I'm a young entrepreneurial developer who loves turning ideas into products that people can actually use. I enjoy blending product thinking, UI design, and engineering to build experiences that feel intuitive, polished, and purposeful.<br><br>My background started with learning JavaScript, CSS, HTML, and the fundamentals of programming from the ground up. Today, my workflow is powered by modern AI-assisted development, allowing me to move quickly while staying intentional about architecture, user experience, and quality. I regularly work with React, Tailwind CSS, Node.js, SQL and vector databases, and cloud platforms like Vercel, using AI as a force multiplier rather than a replacement for understanding how software works.<br><br>Outside of development, the ocean is where I feel most at home. Surfing, hydrofoiling, traveling, spending time with friends and family, and chasing new experiences all shape the way I think and create. I enjoy building software because it gives me the same feeling as exploring a new place or learning a new sport—there's always another challenge to solve and another opportunity to improve.<br><br>The projects that excite me most are the ones fueled by genuine passion. Whether I'm helping a founder launch an idea or working alongside someone like my mom to bring her vision for her Pilates business to life, I love collaborating with people who care deeply about what they're building. Seeing an idea evolve from a conversation into something real that others can experience is what keeps me coming back.<br>
 
-<!--
-**GUNNERSNEAD/GUNNERSNEAD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gunnersnead) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sneadgunner@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=GUNNERSNEAD&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=GUNNERSNEAD&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=GUNNERSNEAD&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
